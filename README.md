@@ -1,16 +1,111 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaskaran Singh
 
-<!--
-**rathour-lab/rathour-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer • MERN Stack
 
-Here are some ideas to get you started:
+I build modern, responsive and full-stack web applications with a focus on clean UI, reusable components and practical backend solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on **React.js, Node.js, Express.js and MongoDB**, while continuously improving my problem-solving and full-stack development skills.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🚀 Building full-stack applications with the **MERN stack**
+* ⚛️ Frontend development with **React.js & JavaScript**
+* 🟢 Backend development with **Node.js & Express.js**
+* 🍃 Working with **MongoDB & Mongoose**
+* 🔗 Building and integrating **REST APIs**
+* 🎨 Creating responsive interfaces with **Tailwind CSS**
+* 🔧 Version control with **Git & GitHub**
+* 💼 Open to **Full Stack / MERN Developer opportunities**
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍔 Hunger Town — MERN Food Ordering Application
+
+A full-stack food ordering application built using the MERN stack.
+
+**Key Features**
+
+* 🍕 Food browsing and menu management
+* 🛒 Cart management
+* 📦 Order placement
+* 👨‍💼 Admin order management
+* 🔄 Order status tracking
+* 🔗 REST API integration
+* 🗄️ MongoDB database integration
+
+**Built With**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Tailwind CSS`
+
+---
+
+### 🎓 CAC Academy
+
+A responsive academy website developed using React.js and Tailwind CSS.
+
+**Key Features**
+
+* 📱 Responsive design
+* 🧩 Reusable React components
+* 🎨 Modern UI
+* 🖼️ Gallery section
+* 📐 Mobile-friendly layouts
+
+**Built With**
+
+`React.js` `JavaScript` `Tailwind CSS`
+
+---
+
+## 📊 What I'm Working On
+
+```text
+Frontend       ███████████████████░   React.js
+Backend        ████████████████░░░░   Node.js / Express
+Database       ██████████████░░░░░░   MongoDB
+Problem Solving██████████████░░░░░░   JavaScript
+```
+
+Currently improving my **JavaScript fundamentals, React development, Node.js backend development and problem-solving skills**.
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: [Jaskaran Singh](www.linkedin.com/in/jaskaran-singh-78a92b398)
+* 🌐 GitHub: [rathour-lab](https://github.com/rathour-lab)
+* 📧 Email: jassarathour72@gmail.com
+
+📩 Open to opportunities and collaborations in **Full Stack / MERN Development**.
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and projects.
