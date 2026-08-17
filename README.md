@@ -4,7 +4,7 @@
 
 I build modern, responsive and full-stack web applications with a focus on clean UI, reusable components and practical backend solutions.
 
-Currently focused on **React.js, Node.js, Express.js and MongoDB**, while continuously improving my problem-solving and full-stack development skills.
+Building full-stack web applications with React.js, Node.js, Express.js and MongoDB, with a focus on clean UI, REST APIs and practical problem solving.
 
 ---
 
