@@ -38,7 +38,7 @@ Building full-stack web applications with React.js, Node.js, Express.js and Mong
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,sublime" />
 </p>
 
 ---
